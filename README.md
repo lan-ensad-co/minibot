@@ -15,4 +15,4 @@ List of components I used :
 # Wiring
 
 ##Esp pin
-*![espPin](https://simple-circuit.com/wp-content/uploads/2018/06/esp-01-led-blink-circuit.png)
+\n ![espPin](https://simple-circuit.com/wp-content/uploads/2018/06/esp-01-led-blink-circuit.png)
