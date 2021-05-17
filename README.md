@@ -1,2 +1,2 @@
-# minibot
-esp8266 driven a minibot
+## Vibrabot
+esp8266 driven minibot
