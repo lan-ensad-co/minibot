@@ -1,9 +1,7 @@
 # Vibrabot component
-
-
+(PHOTO DU PROJET)
 
 esp8266 driven minibot
-![espPin](https://simple-circuit.com/wp-content/uploads/2018/06/esp-01-led-blink-circuit.png)
 
 List of components I used :
 1. [esp8266](https://www.gotronic.fr/art-module-esp8266-25664.htm#complte_desc)
@@ -13,3 +11,6 @@ List of components I used :
 
 
 # Wiring
+
+##Esp pin
+![espPin](https://simple-circuit.com/wp-content/uploads/2018/06/esp-01-led-blink-circuit.png)
